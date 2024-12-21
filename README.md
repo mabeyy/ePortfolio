@@ -1,6 +1,6 @@
 # ePortfolio
 
-![alt text](images/site.png)
+![site](images/site.png)
 
 ## Description
 This is my personal ePortfolio, designed to showcase my skills, projects, and contact details. The portfolio is built using HTML and CSS to provide a clean, professional, and responsive design. It aims to give visitors an overview of who I am, the projects I've worked on, and how they can contact me. The portfolio will be further enhanced with JavaScript to add interactivity and additional functionality in the future.
