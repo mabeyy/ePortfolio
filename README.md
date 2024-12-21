@@ -18,19 +18,20 @@ Once you have cloned the repository, open the index.html file in any web browser
 2. Create a new branch for your feature or fix:
 ```bash
 git checkout -b feature-name
+```
 3. Make your changes and commit them:
 ```bash
 git commit -m "Add feature or fix issue"
-
+```
 4. Push to your forked repository:
 ```bash
 git push origin feature-name
-
+```
 5. Open a pull request to merge your changes into the main repository.
 
 ### Clone the repository
 To clone the repository and view the project locally, use the following command:
 ```bash
 git clone https://github.com/your-username/your-repository-name.git
-
+```
 ### Feel free to fork, modify, and contribute to this project!
